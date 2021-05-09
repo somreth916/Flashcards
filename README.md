@@ -6,3 +6,11 @@ This project allows users to create a deck of cards to be used for studying. The
 
 # Screenshots
 ### Home:
+
+
+## Technology
+- HTML
+- Bootstrap/CSS
+- React
+- JavaScript
+#### This app was built as a way to practice JavaScript along with React hooks such as useState, useEffect, useParams, useHistory, and routes.
