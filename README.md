@@ -5,8 +5,10 @@ This project allows users to create a deck of cards to be used for studying. The
 [Live Demo](https://flashcards-99h4hl74y-somreth916.vercel.app/)
 
 # Screenshots
-### Home:
 
+[![5.png](https://i.postimg.cc/T2CF2HWC/5.png)](https://postimg.cc/YjLbbRRW)
+
+[![6.png](https://i.postimg.cc/xdDFpwWT/6.png)](https://postimg.cc/PCy4PRXB)
 
 ## Technology
 - HTML
